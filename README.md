@@ -1,1 +1,1 @@
-This is the starting point of the portfolio page.
+starting page of my portfolio
